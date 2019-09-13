@@ -283,6 +283,7 @@ public class MaterialIntroView extends RelativeLayout {
         infoView = layoutInfo.findViewById(R.id.info_layout);
         textViewInfo = (TextView) layoutInfo.findViewById(R.id.textview_info);
         textViewInfo.setTextColor(colorTextViewInfo);
+        textViewInfo.setGravity(Gravity.CENTER);
         imageViewIcon = (ImageView) layoutInfo.findViewById(R.id.imageview_icon);
 
         dotView = LayoutInflater.from(getContext()).inflate(R.layout.dotview, null);
