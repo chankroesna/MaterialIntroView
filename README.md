@@ -1,5 +1,5 @@
 # MaterialIntroView [Beta]
-Material Intro View is a showcase android library.
+This Library is fork from [iammert/MaterialIntroView](https://github.com/iammert/MaterialIntroView) ,I add a feature which can surpport custom info view
 
 We saw this kind of showcase on [Fabulous App](http://www.thefabulous.co/) and we love it. Then decided to create showcase just like it.
 
